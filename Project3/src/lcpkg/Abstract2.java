@@ -5,6 +5,7 @@ public class Abstract2 extends Abstraction
  public void method2()
  {
 	 System.out.println("body given");
+	 System.out.println("update");
  }
  
  public static void main(String[] args) 
